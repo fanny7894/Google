@@ -1,0 +1,72 @@
+#mynavigation
+{
+    float: right;
+}
+
+#mynavigation li
+{
+    display: inline-block;
+    padding: 8px; 
+}
+
+#googleheader
+{
+    display: inline-block;
+}
+
+#connexion
+{
+    background: #4887ef;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 7px;
+    color: ivory;
+}
+
+
+.image-center
+{
+    display: block;
+    clear: both;
+    margin: 0 auto;
+    padding-top: 200px;
+    padding-bottom: 20px;
+    text-align: center;
+    width: 250px
+}
+
+.bouton-centre
+{
+    text-align: center;
+    display: center;
+    margin: auto;
+    align-items: center;
+}
+
+.bouton1
+{
+    text-align: center;
+    display: center;
+    margin: auto;
+    align-items: center;
+    justify-content: space-around;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.barre {
+    text-align: center;
+  }
+  #barre-de-recherche 
+  {
+    width: 450px;
+    border-radius: 25px;
+    line-height: 40px;
+    text-align: center;
+  }
+
+.myconteneur
+{
+    background-color: grey;
+}
